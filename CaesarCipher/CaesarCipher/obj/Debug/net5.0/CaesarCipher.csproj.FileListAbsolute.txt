@@ -1,0 +1,5 @@
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.AssemblyReference.cache
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfoInputs.cache
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfo.cs
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.CoreCompileInputs.cache
