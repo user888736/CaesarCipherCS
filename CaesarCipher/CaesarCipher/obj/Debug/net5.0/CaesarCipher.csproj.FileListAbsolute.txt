@@ -3,3 +3,14 @@ D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCiph
 D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfoInputs.cache
 D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfo.cs
 D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.exe
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.deps.json
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.json
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.dev.json
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.dll
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\ref\CaesarCipher.dll
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\bin\Debug\net5.0\CaesarCipher.pdb
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.dll
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\ref\CaesarCipher.dll
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.pdb
+D:\gitRepos\CaesarCipherCS\CaesarCipher\CaesarCipher\obj\Debug\net5.0\CaesarCipher.genruntimeconfig.cache
