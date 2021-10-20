@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace CaesarCipher
 {
@@ -49,7 +50,7 @@ namespace CaesarCipher
                 }
             }
             string output = string.Join("",encryptedInput.ToArray());
-            Console.WriteLine(output);
+            File.WriteAllText("encrypted.txt", output);
         }
     }
 }
